@@ -6,3 +6,7 @@
 
 Удаление ветки:
 --- git branch -d existing_branch
+
+Как отправить ветку на сервер: 
+--- git commit -m “sample text" 
+--- git push
